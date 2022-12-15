@@ -26,6 +26,6 @@ Información Basica
 - [Clase Abstracta y metodo estatico](Clase_Abstracta.md)
 - [Ejercicio Public - private]()
 - [Ejercicio Public - private]()
-- [Ejercicio Public - private]()
+- [CustomPaint, Stack y positioned]()
 
 
