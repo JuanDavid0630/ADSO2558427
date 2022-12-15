@@ -1,5 +1,5 @@
 # Main
-
+~~~
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'models/user.dart';
@@ -107,3 +107,4 @@ class User {
     email = jsonResponse["data"]["email"];
   }
 }
+~~~
