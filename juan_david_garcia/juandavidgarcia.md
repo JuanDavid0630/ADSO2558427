@@ -24,5 +24,8 @@ Información Basica
 - [Herencia](Herencia.md)
 - [Manejo De Cadenas en Dart](Manejo_De_Cadenas.md)
 - [Clase Abstracta y metodo estatico](Clase_Abstracta.md)
+- [Desarrollo Con peticion Get a Baskend un objeto](ejercicioh.md)
+- [Desarrollo Con peticion Get a Baskend Lista objeto ](ejercicioj.md)
+- [Custom paint, Stack Positioned](ejerciciok.md)
 
 
