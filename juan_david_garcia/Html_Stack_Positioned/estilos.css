@@ -1,0 +1,28 @@
+main{   
+    height: 292px;
+    width: 500px;
+    margin: auto;
+
+}
+header{    
+   border-radius: 10px 10px 0px 0px;
+    font-style: italic; 
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+}
+article{
+    font-style: italic; 
+    border: 1px solid black;
+    height: 92px;
+}
+.one{
+    font-style: italic; 
+    height: 240px;
+}
+footer{
+    font-style: italic; 
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+}
