@@ -14,13 +14,18 @@ Información Basica
 | **GitHub** | https://github.com/JuanDavid0630 |
 
 ## Ejercicios
+- [Ejercicio Ciclo PARA](ejerciciomientraque.md)
 - [Ejercicio Ciclo mientras que](ejercicio_1visual.md)
-- [Ejercicio de Buscador](ejercicio_2visual.md)
+- [Ejercicio Ciclo mientras que](ejercicio_2visual.md)
 - [Formulario](formulario.md)
 - [Ejercicio 1 DartPad](Ejercicio_1Dart.md)
 - [Ejercicio 2 DartPad](ejercicio_4.md)
-- [Herencia](ejercicio_Herencia.md)
-- [Ejercicio de empresa](ejerciciodeempresa.md)
-- [Extends](extends.md)
-- [Ejercicio Public - private](Ejercicio%20Java.md)
+- [Tipos de parametros y constructores](Tipos_de_parametros.md)
+- [Herencia](Herencia.md)
+- [Manejo De Cadenas en Dart](Manejo_De_Cadenas.md)
+- [Clase Abstracta y metodo estatico](Clase_Abstracta.md)
+- [Ejercicio Public - private]()
+- [Ejercicio Public - private]()
+- [Ejercicio Public - private]()
+
 
