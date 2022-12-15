@@ -24,8 +24,5 @@ Información Basica
 - [Herencia](Herencia.md)
 - [Manejo De Cadenas en Dart](Manejo_De_Cadenas.md)
 - [Clase Abstracta y metodo estatico](Clase_Abstracta.md)
-- [Ejercicio Public - private]()
-- [Ejercicio Public - private]()
-- [CustomPaint, Stack y positioned]()
 
 
